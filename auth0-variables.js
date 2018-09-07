@@ -1,6 +1,6 @@
-const AUTH0_CLIENT_ONE_ID = 'JDTwwa7vrgGeDo2osftnxA2PYi02M2J6';
-const AUTH0_CLIENT_TWO_ID = 'vGNy3hykYJALwu3sZTUtHVZXeM2V3bsn';
-const AUTH0_DOMAIN = 'adamino.auth0.com';
+const AUTH0_CLIENT_ONE_ID = '';
+const AUTH0_CLIENT_TWO_ID = '';
+const AUTH0_DOMAIN = '';
 
 if (!AUTH0_CLIENT_ONE_ID || !AUTH0_DOMAIN) {
     alert('Make sure to set the AUTH0_CLIENT_ID and AUTH0_DOMAIN variables in auth0-variables.js.');
