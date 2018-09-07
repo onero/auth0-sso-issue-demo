@@ -25,3 +25,5 @@ and then browse to [http://localhost:5000](http://localhost:5000).
   - Attempt to renew user 1, which should be possible with issues
   - Now carry out same procedure for user two
   - When trying to renew user 1 now you will get the Auth0 error "login_required"
+  
+Credits to inspiration for this project goes to https://github.com/auth0-samples/oidc-sso-sample
