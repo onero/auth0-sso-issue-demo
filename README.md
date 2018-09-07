@@ -19,11 +19,11 @@ serve
 and then browse to [http://localhost:5000](http://localhost:5000).
 
 ### How to demo
-  - First click "Click here to attempt an SSO login" to attempt connection
+  - For user 1, click "Click here to attempt an SSO login" to attempt connection
   - Then click "Click here to attempt to parse hash 1"
   - Login with user 1 for first SPA
   - Attempt to renew user 1, which should be possible with issues
   - Now carry out same procedure for user two
-  - When trying to renew user 1 now you will get the Auth0 error "login_required"
+  - When trying to renew user 1, after user 2, you will get the Auth0 error "login_required"
   
 Credits to inspiration for this project goes to https://github.com/auth0-samples/oidc-sso-sample
